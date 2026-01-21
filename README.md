@@ -81,9 +81,14 @@ instructor early to any barriers to participation.
 
 ### Week 1: Literature as Social Practice
 
-- Raymond Williams, “Culture is Ordinary.”
-- Wendy Griswold, “Recent Moves in the Sociology of Literature.”
-- *Selections from* Pierre Bourdieu, **The Field of Cultural Production**.
+- Raymond Williams, “[Culture is Ordinary][001].”
+- Wendy Griswold, “[Recent Moves in the Sociology of Literature]002].”
+- Bourdieu, Pierre. “The Field of Cultural Production, or: The Economic World Reversed.”
+*Poetics( 12, no. 4–5 (1983): 311–356.
+
+[001]: https://drive.google.com/file/d/1_vsYquGpx4ykCvDEnO1jpBtvYHjC9rkZ/view?usp=sharing
+[002]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2083396
+[003]: https://www-sciencedirect-com.ezproxy.cul.columbia.edu/science/article/pii/0304422X83900128
 
 ### Week 2: The Writer’s Workshop
 - *Selections from* Howard S. Becker, **Art Worlds**.
