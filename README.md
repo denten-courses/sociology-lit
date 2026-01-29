@@ -89,17 +89,24 @@ instructor early to any barriers to participation.
 [002]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2083396
 [003]: https://www-sciencedirect-com.ezproxy.cul.columbia.edu/science/article/pii/0304422X83900128
 
-### Week 2: The Writer’s Workshop
-- *Selections from* Howard S. Becker, **Art Worlds**.
-- *Selections from* Sarah Brouillette, **Literature and the Creative Economy**.
-- Barbara Herrnstein Smith, “Value/Evaluation.”
+### Week 2: The Writers Workshop
+
+- "Chapter 1: Art Worlds and Collective Activity" from Howard S. Becker, [*Art Worlds*][201](1982).
+- "Chapter 6: The Strange Case of the Writer-Consultant" from [*Literature and the Creative Economy*][202](2014) by Sarah Brouillette.
+- "Chapter 2: “Understanding Iowa: The Religion of Institutionalization” in [*The Program Era*][203](2009) by Mark McGurl.
+
+[201]: https://drive.google.com/file/d/1_21GJ87hP-sXqYnOC4bG22LxeH88pi8T/view?usp=drive_link
+[202]: https://drive.google.com/file/d/1dMZ_kqO15FyaRhkLgsx2O5kf0eVhPeK1/view?usp=drive_link
+[203]: https://drive.google.com/file/d/1CwICqetDP_zwnq7wKHCJSms-UeqHUoIw/view?usp=drive_link
 
 ### Week 3: From Hand to Archive — Genetic Criticism & Writer’s Labor
+
 - Pierre‑Marc de Biasi, “Toward a Science of Literature: Manuscript Analysis and the Genesis of the Work.”
 - *Selections from* Daniel Ferrer, **Logiques du brouillon**.
 - *Selections from* Roger Chartier, **The Order of Books**.
 
 ### Week 4: The Publishing Field
+
 - Pierre Bourdieu, “The Market of Symbolic Goods.”
 - *Selections from* James F. English, **The Economy of Prestige**.
 - *Selections from* John B. Thompson, **Merchants of Culture**.
@@ -175,3 +182,7 @@ A 15–20 page research paper due during exam week. Projects may be **archival**
 community, prize network, or translation circuit). A 1–2 page proposal is due **Week 8**.
 
 
+### Value
+
+- Barbara Herrnstein Smith, “Value/Evaluation.”
+- McGurl Systematic Excellence
