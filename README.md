@@ -91,9 +91,9 @@ instructor early to any barriers to participation.
 
 ### Week 2: The Writers Workshop
 
-- "Chapter 1: Art Worlds and Collective Activity" from Howard S. Becker, [*Art Worlds*][201](1982).
-- "Chapter 6: The Strange Case of the Writer-Consultant" from [*Literature and the Creative Economy*][202](2014) by Sarah Brouillette.
-- "Chapter 2: “Understanding Iowa: The Religion of Institutionalization” in [*The Program Era*][203](2009) by Mark McGurl.
+- "Chapter 1: Art Worlds and Collective Activity" from Howard S. Becker, [*Art Worlds*][201] (1982).
+- "Chapter 6: The Strange Case of the Writer-Consultant" from [*Literature and the Creative Economy*][202] (2014) by Sarah Brouillette.
+- "Chapter 2: “Understanding Iowa: The Religion of Institutionalization” in [*The Program Era*][203] (2009) by Mark McGurl.
 
 [201]: https://drive.google.com/file/d/1_21GJ87hP-sXqYnOC4bG22LxeH88pi8T/view?usp=drive_link
 [202]: https://drive.google.com/file/d/1dMZ_kqO15FyaRhkLgsx2O5kf0eVhPeK1/view?usp=drive_link
