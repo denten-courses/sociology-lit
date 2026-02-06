@@ -111,7 +111,7 @@ Press, 1987.
 
 [301]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2930347?searchText=au%3A%22Louis+Hay%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26Query%3Dau%253A%2522Louis%2BHay%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3A35b9e8ed5759580f90fc1e31fed5d714
 [302]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2930337?searchText=Pierre-Marc+de+Biasi&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DPierre-Marc%2Bde%2BBiasi%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac56ec69ed3ab7c5efc464984299e8cf2
-[303]: https://drive.google.com/file/d/1suTKbyAVsci4lmYdmRM5-fqq0A73MKGy/view?usp=drive_link
+[303]: https://drive.google.com/file/d/1DjpUB10hjJsTtqWfkpp13g1YsFWzDPlk/view?usp=drive_link
 
 ### Week 4: The Publishing Field
 
