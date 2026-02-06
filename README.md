@@ -99,11 +99,16 @@ instructor early to any barriers to participation.
 [202]: https://drive.google.com/file/d/1dMZ_kqO15FyaRhkLgsx2O5kf0eVhPeK1/view?usp=drive_link
 [203]: https://drive.google.com/file/d/1CwICqetDP_zwnq7wKHCJSms-UeqHUoIw/view?usp=drive_link
 
-### Week 3: From Hand to Archive — Genetic Criticism & Writer’s Labor
+### Week 3: Textual & Genetic Criticism
 
-- Pierre‑Marc de Biasi, “Toward a Science of Literature: Manuscript Analysis and the Genesis of the Work.”
-- *Selections from* Daniel Ferrer, **Logiques du brouillon**.
-- *Selections from* Roger Chartier, **The Order of Books**.
+- Hay, Louis. “[History or Genesis][301]?” *Yale French Studies*, no. 89, Drafts (1996): 191–207.
+- de Biasi, Pierre-Marc. “[What Is a Literary Draft? Toward a Functional Typology of Genetic
+Documentation][302].” Translated by Ingrid Wassenaar. *Yale French Studies*, no. 89, Drafts (1996):
+26–58.
+
+[301]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2930347?searchText=au%3A%22Louis+Hay%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26Query%3Dau%253A%2522Louis%2BHay%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3A35b9e8ed5759580f90fc1e31fed5d714
+[302]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2930337?searchText=Pierre-Marc+de+Biasi&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DPierre-Marc%2Bde%2BBiasi%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac56ec69ed3ab7c5efc464984299e8cf2
+[303]: 
 
 ### Week 4: The Publishing Field
 
@@ -181,8 +186,17 @@ A 15–20 page research paper due during exam week. Projects may be **archival**
 **ethnographic**, or **computational** studies of a literary world (e.g., a small press, fan
 community, prize network, or translation circuit). A 1–2 page proposal is due **Week 8**.
 
+## CUTS
+
 
 ### Value
 
 - Barbara Herrnstein Smith, “Value/Evaluation.”
 - McGurl Systematic Excellence
+
+## Position
+
+- Body and Soul.
+
+- *Selections from* Roger Chartier, **The Order of Books**.
+
