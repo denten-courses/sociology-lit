@@ -113,21 +113,26 @@ Press, 1987.
 [302]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2930337?searchText=Pierre-Marc+de+Biasi&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DPierre-Marc%2Bde%2BBiasi%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac56ec69ed3ab7c5efc464984299e8cf2
 [303]: https://drive.google.com/file/d/1DjpUB10hjJsTtqWfkpp13g1YsFWzDPlk/view?usp=drive_link
 
-### Week 4: The Publishing Field
+### Week 4: *Under the Cover* — The Social Life of a Novel
+
+- Clayton Childress, *[Under the Cover: The Creation, Production, and Reception of a Novel*][401] .
+
+Read a least three chapters of your choosing. Review the others to understand the structure of
+the book. Please consider purchasing the book, if you find it useful.
+
+[401]: https://drive.google.com/file/d/1-IJAf5B1W40-JWzeE0y0bBQ6U9e33t9w/view?usp=drive_link
+
+---
+
+### Part II: Circulation
+
+### Week 5: The Publishing Field
 
 - Pierre Bourdieu, “The Market of Symbolic Goods.”
 - *Selections from* James F. English, **The Economy of Prestige**.
 - *Selections from* John B. Thompson, **Merchants of Culture**.
 
-### Week 5: *Under the Cover* — The Social Life of a Novel
 
-- *Selections from* Clayton Childress, **Under the Cover: The Creation, Production, and Reception of a Novel**.
-- Wendy Griswold, “The Cultural Diamond.”
-- Paul DiMaggio, “Cultural Entrepreneurship in Nineteenth‑Century Boston.”
-
----
-
-### Part II: Circulation & Reception
 
 ### Week 6: The Library & the Archive
 - *Selections from* Ann Blair, **Too Much to Know**.
@@ -202,8 +207,11 @@ community, prize network, or translation circuit). A 1–2 page proposal is due 
 - Body and Soul.
 
 ## Book History
+
 - *Selections from* Roger Chartier, **The Order of Books**.
 - Book-Burning and the Uses of Writing in Ancient Rome: Destructive Practice between Literature and Document
 JOSEPH A. HOWLEY
 
 
+- Paul DiMaggio, “Cultural Entrepreneurship in Nineteenth‑Century Boston.”
+- Wendy Griswold, “The Cultural Diamond.”
