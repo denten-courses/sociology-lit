@@ -128,11 +128,13 @@ the book. Please consider purchasing the book, if you find it useful.
 
 ### Week 5: The Publishing Field
 
-- Pierre Bourdieu, “The Market of Symbolic Goods.”
-- *Selections from* James F. English, **The Economy of Prestige**.
-- *Selections from* John B. Thompson, **Merchants of Culture**.
+- Pierre Bourdieu, “[The Market of Symbolic Goods][502].”
+- Chapters 5-7 in [*The Economy of Prestige*][501] (2005) by James F. English.
+- Chapters 1 and 2 in  the *Merchants of Culture* (2010) by John B. Thompson.
 
-
+[501]: https://drive.google.com/file/d/1tjYM6T_OOFxbTzHyCkbk5NzRY9urda1O/view?usp=drive_link
+[502]: https://drive.google.com/file/d/1kcNPmUOLC-EEkrohEGnX6rC2BZaknFa6/view?usp=drive_link
+[503]: https://drive.google.com/file/d/1U2PgELVKl1U6hYFFJPrM6gwnBmD3XY4q/view?usp=sharing
 
 ### Week 6: The Library & the Archive
 - *Selections from* Ann Blair, **Too Much to Know**.
