@@ -130,7 +130,7 @@ the book. Please consider purchasing the book, if you find it useful.
 
 - Pierre Bourdieu, “[The Market of Symbolic Goods][502].”
 - Chapters 5-7 in [*The Economy of Prestige*][501] (2005) by James F. English.
-- Chapters 1 and 2 in  the *Merchants of Culture* (2010) by John B. Thompson.
+- Chapters 1 and 2 in  the [*Merchants of Culture*][503] (2010) by John B. Thompson.
 
 [501]: https://drive.google.com/file/d/1tjYM6T_OOFxbTzHyCkbk5NzRY9urda1O/view?usp=drive_link
 [502]: https://drive.google.com/file/d/1kcNPmUOLC-EEkrohEGnX6rC2BZaknFa6/view?usp=drive_link
