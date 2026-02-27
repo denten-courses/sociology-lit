@@ -138,10 +138,11 @@ the book. Please consider purchasing the book, if you find it useful.
 
 ### Week 6: The Library & the Archive
 - "[Chapter 2: Note-Taking as Information Management][61]" Ann Blair, **Too Much to Know**.
-- *Selections from* Leah Price, **The Anthology and the Rise of the Novel**.
-- *Selections from* Markus Krajewski, **Paper Machines**.
+- "[Chapter 3: George Eliot and the Production of Consumers][62]" in **The Anthology and the Rise
+of the Novel** (2000) by from Leah Price.
 
 [61]: https://drive.google.com/file/d/15ipd6wIwoaqPe2ZE0kzVyTUedOuQfKaf/view?usp=drive_link
+[62]: https://drive.google.com/file/d/1--93hVGLjNPbO1ajRhV6VUFClUj7toFV/view?usp=drive_link
 
 ### Week 7: Reading Publics / Interpretive Communities
 - Stanley Fish, “Is There a Text in This Class?”
