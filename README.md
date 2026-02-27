@@ -137,9 +137,11 @@ the book. Please consider purchasing the book, if you find it useful.
 [503]: https://drive.google.com/file/d/1U2PgELVKl1U6hYFFJPrM6gwnBmD3XY4q/view?usp=sharing
 
 ### Week 6: The Library & the Archive
-- *Selections from* Ann Blair, **Too Much to Know**.
+- "[Chapter 2: Note-Taking as Information Management][61]" Ann Blair, **Too Much to Know**.
 - *Selections from* Leah Price, **The Anthology and the Rise of the Novel**.
 - *Selections from* Markus Krajewski, **Paper Machines**.
+
+[61]: https://drive.google.com/file/d/15ipd6wIwoaqPe2ZE0kzVyTUedOuQfKaf/view?usp=drive_link
 
 ### Week 7: Reading Publics / Interpretive Communities
 - Stanley Fish, “Is There a Text in This Class?”
