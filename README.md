@@ -140,9 +140,34 @@ the book. Please consider purchasing the book, if you find it useful.
 - "[Chapter 2: Note-Taking as Information Management][61]" Ann Blair, **Too Much to Know**.
 - "[Chapter 3: George Eliot and the Production of Consumers][62]" in **The Anthology and the Rise
 of the Novel** (2000) by from Leah Price.
+- ~~shadow libraries~~
 
 [61]: https://drive.google.com/file/d/15ipd6wIwoaqPe2ZE0kzVyTUedOuQfKaf/view?usp=drive_link
 [62]: https://drive.google.com/file/d/1--93hVGLjNPbO1ajRhV6VUFClUj7toFV/view?usp=drive_link
+
+### Week 7: Translation & World Literature
+
+- "[Consecration and Accumulation of Literary Capital: Translation as Unequal Exchange][71]" by
+Pascale Casanova in the *Translation Studies Reader* (2021).
+- "[The Series, the List, and the Clone][72]" from *Born Translated* (2015) by Rebecca Walkowitz.
+- Nornes, Abé Mark. 1999. “[For an Abusive Subtitling][73].” Film Quarterly 52 (3): 17–34. https://doi.org/10.2307/1213822.
+
+[71]: https://drive.google.com/file/d/13j988-7a8nfjsgLMuDvLNGVNYWJmpigX/view?usp=drive_link
+[72]: https://drive.google.com/file/d/1E1urkb_zQMVquedjdNc4flj4T8s7957d/view?usp=drive_link
+[73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1213822
+
+### Week 8: State, Ideology, and Archives
+- *Selections from* Katerina Clark, **The Soviet Novel**.
+- *Selections from* Evgeny Dobrenko, **The Making of the State Writer: Social and Aesthetic Origins of Soviet Literary Culture**.
+- *Selections from* Cristina Vatulescu, **Police Aesthetics: Literature, Film, and the Secret Police in Soviet Times**.
+- *Selections from* Raymond Williams, **Politics and Letters**.
+
+### Week 9: Canon Formation
+
+
+---
+
+### Part III: Reception
 
 ### Week 7: Reading Publics / Interpretive Communities
 - Stanley Fish, “Is There a Text in This Class?”
@@ -153,31 +178,6 @@ of the Novel** (2000) by from Leah Price.
 - *Selections from* Henry Jenkins, **Textual Poachers**.
 - *Selections from* Abigail De Kosnik, **Rogue Archives**.
 - Francesca Coppa, “Women, *Star Trek*, and the Early Development of Fannish Vidding.”
-
-### Week 9: Translation & World Literature
-- *Selections from* Pascale Casanova, **The World Republic of Letters**.
-- *Selections from* Emily Apter, **Against World Literature**.
-- *Selections from* Anna Tsing, **Friction: An Ethnography of Global Connection**.
-
-### Week 10: State, Ideology, and Archives
-- *Selections from* Katerina Clark, **The Soviet Novel**.
-- *Selections from* Evgeny Dobrenko, **The Making of the State Writer: Social and Aesthetic Origins of Soviet Literary Culture**.
-- *Selections from* Cristina Vatulescu, **Police Aesthetics: Literature, Film, and the Secret Police in Soviet Times**.
-- *Selections from* Raymond Williams, **Politics and Letters**.
-
-### Week 11: Markets & Genres
-- *Selections from* John Frow, **Genre**.
-- *Selections from* Eva Illouz, **Cold Intimacies**.
-- Wendy Griswold, “The Fabrication of Meaning.”
-
-### Week 12: Digital Labor & Algorithms
-- Ted Striphas, “Algorithmic Culture.”
-- *Selections from* Franco Moretti, **Graphs, Maps, Trees**.
-- Nick Seaver, “Knowing Algorithms.”
-
----
-
-### Part III: Collective Agency & Belief
 
 ### Week 13: Co‑Authorship & Collective Intelligence
 - Roland Barthes, “The Death of the Author.”
@@ -190,6 +190,17 @@ of the Novel** (2000) by from Leah Price.
 - *Selections from* Peter Knight, **Conspiracy Culture**.
 - *Selections from* Timothy Melley, **Empire of Conspiracy**.
 - *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
+
+### Week 12: Digital Labor & Algorithms
+- Ted Striphas, “Algorithmic Culture.”
+- *Selections from* Franco Moretti, **Graphs, Maps, Trees**.
+- Nick Seaver, “Knowing Algorithms.”
+
+### Week 11: Markets & Genres
+- *Selections from* John Frow, **Genre**.
+- *Selections from* Eva Illouz, **Cold Intimacies**.
+- Wendy Griswold, “The Fabrication of Meaning.”
+
 
 ---
 
