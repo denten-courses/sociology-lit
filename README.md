@@ -150,7 +150,7 @@ of the Novel** (2000) by from Leah Price.
 - "[Consecration and Accumulation of Literary Capital: Translation as Unequal Exchange][71]" by
 Pascale Casanova in the *Translation Studies Reader* (2021).
 - "[The Series, the List, and the Clone][72]" from *Born Translated* (2015) by Rebecca Walkowitz.
-- Nornes, Abé Mark. 1999. “[For an Abusive Subtitling][73].” Film Quarterly 52 (3): 17–34. https://doi.org/10.2307/1213822.
+- Nornes, Abé Mark. 1999. “[For an Abusive Subtitling][73].” Film Quarterly 52 (3): 17–34.
 
 [71]: https://drive.google.com/file/d/13j988-7a8nfjsgLMuDvLNGVNYWJmpigX/view?usp=drive_link
 [72]: https://drive.google.com/file/d/1E1urkb_zQMVquedjdNc4flj4T8s7957d/view?usp=drive_link
