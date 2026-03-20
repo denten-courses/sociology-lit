@@ -157,19 +157,32 @@ Pascale Casanova in the *Translation Studies Reader* (2021).
 [73]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1213822
 
 ### Week 8: State, Ideology, and Archives
-- *Selections from* Katerina Clark, **The Soviet Novel**.
-- *Selections from* Evgeny Dobrenko, **The Making of the State Writer: Social and Aesthetic Origins of Soviet Literary Culture**.
-- *Selections from* Cristina Vatulescu, **Police Aesthetics: Literature, Film, and the Secret Police in Soviet Times**.
-- *Selections from* Raymond Williams, **Politics and Letters**.
+
+- Vatulescu, Cristina. 2004. “[Arresting Biographies: The Secret Police File in the Soviet
+Union and Romania]().” *Comparative Literature* 56 (3): 243–61. - Stoler, Ann Laura. 2002.
+“Colonial Archives and the Arts of Governance.” *Archival Science* 2 (1–2): 87–109
+- Darnton, Robert. 2014. “Introduction” and "Part One, Bourbon France: Privilege and
+Repression" In [*Censors at Work: How States Shaped Literature*][83], 1–24. New York: W. W. Norton.
+
+[81]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/pdf/4125386.pdf?refreqid=fastly-default%3Abbb7e28c8acedf11c1c855e5c95e8a14&ab_segments=&initiator=&acceptTC=1
+[82]: https://drive.google.com/file/d/1RhNdmrgRzNt8a8wROHYlxO8tbwbBqgYt/view?usp=drive_link
+[83]: https://drive.google.com/file/d/1ZNIkk9na6VWom3jLhuCCtne7EOGi3m2W/view?usp=drive_link
 
 ### Week 9: Canon Formation
 
+- Griswold, Wendy. 1987. “The Fabrication of Meaning: Literary Interpretation in the
+United States, Great Britain, and the West Indies.” *American Journal of Sociology* 92 (5):
+1077–1117.
+- Guillory, John. 1993. “Canon Formation.” In *Cultural Capital: The Problem of Literary
+Canon Formation*, 3–40. Chicago: University of Chicago Press.-
+- Smith, Barbara Herrnstein. 1983. “Contingencies of Value .” *Critical Inquiry* 10 (1):
+1–35.
 
 ---
 
 ### Part III: Reception
 
-### Week 7: Reading Publics / Interpretive Communities
+### Week 10: Reading Publics / Interpretive Communities
 - Stanley Fish, “Is There a Text in This Class?”
 - *Selections from* Janice Radway, **Reading the Romance**.
 - Elizabeth Long, “Textual Interpretation as Collective Action.”
