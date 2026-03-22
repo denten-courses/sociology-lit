@@ -158,9 +158,10 @@ Pascale Casanova in the *Translation Studies Reader* (2021).
 
 ### Week 8: State, Ideology, and Archives
 
-- Vatulescu, Cristina. 2004. “[Arresting Biographies: The Secret Police File in the Soviet
-Union and Romania]().” *Comparative Literature* 56 (3): 243–61. - Stoler, Ann Laura. 2002.
-“Colonial Archives and the Arts of Governance.” *Archival Science* 2 (1–2): 87–109
+- Vatulescu, Cristina. 2004. “[Arresting Biographies: The SecretPolice File in the Soviet
+Union and Romania][81].” *Comparative Literature* 56 (3): 243–61.
+- Stoler, Ann Laura. 2002. “[Colonial Archives and the Arts of Governance][82].” *Archival
+Science* 2 (1–2): 87–109
 - Darnton, Robert. 2014. “Introduction” and "Part One, Bourbon France: Privilege and
 Repression" In [*Censors at Work: How States Shaped Literature*][83], 1–24. New York: W. W. Norton.
 
