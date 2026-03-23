@@ -171,13 +171,17 @@ Repression" In [*Censors at Work: How States Shaped Literature*][83], 1–24. Ne
 
 ### Week 9: Canon Formation
 
-- Griswold, Wendy. 1987. “The Fabrication of Meaning: Literary Interpretation in the
-United States, Great Britain, and the West Indies.” *American Journal of Sociology* 92 (5):
+- Griswold, Wendy. 1987. “[The Fabrication of Meaning: Literary Interpretation in the
+United States, Great Britain, and the West Indies][91].” *American Journal of Sociology* 92 (5):
 1077–1117.
-- Guillory, John. 1993. “Canon Formation.” In *Cultural Capital: The Problem of Literary
-Canon Formation*, 3–40. Chicago: University of Chicago Press.-
-- Smith, Barbara Herrnstein. 1983. “Contingencies of Value .” *Critical Inquiry* 10 (1):
+- Guillory, John. 1993. “Canonical and Noncanonical: The Current Debate.” In [*Cultural Capital: The Problem of Literary
+Canon Formation*][92], 3–40. Chicago: University of Chicago Press.-
+- Smith, Barbara Herrnstein. 1983. “[Contingencies of Value][93].” *Critical Inquiry* 10 (1):
 1–35.
+
+[91]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2779997
+[92]: https://drive.google.com/file/d/1REFx8jY5C2cvCwapDp2GaS92tG80acaq/view?usp=drive_link
+[93]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/1343404
 
 ---
 
