@@ -187,27 +187,78 @@ Canon Formation*][92], 3–40. Chicago: University of Chicago Press.-
 
 ### Part III: Reception
 
-### Week 10: Reading Publics / Interpretive Communities
-- Stanley Fish, “Is There a Text in This Class?”
-- *Selections from* Janice Radway, **Reading the Romance**.
-- Elizabeth Long, “Textual Interpretation as Collective Action.”
+### Week 10: Interpretive Communities
 
-### Week 8: Fanfiction Worlds
+- “Is There a Text in This Class?” and "How To Recognize a Poem When You See One" in *[Is
+There a Text in This Class*][101] (1980) by Stanley Fish.
+- Elizabeth Long, “[Textual Interpretation as Collective Action][103]" in *Discourse* Discourse, Vol. 14, No. 3 (Summer 1992), pp. 104-130.
+- "The Constitution of Oral Texts" and "Text and Personhood" in the [*Anthropology of Texts,
+Persons, and Publics*][102] (2007) by Karin Barber.
+
+[101]: https://drive.google.com/file/d/1gMypCJHVyQaK6beqpYmzhUc21siOLFkH/view?usp=sharing
+[102]: https://drive.google.com/file/d/1NYgniIptqXCJaZ2FjAtWTddZD6nbKh_M/view?usp=drive_link
+[103]: https://www.jstor.org/stable/41389235?casa_token=gWw0Fn0ZrcUAAAAA%3AqH-phKNRBR6qXXOgUKdPN0P8H49W3rJBuj8IQdkXtiUTIEtVzb726-LaYTwDK-a9urPN4Ymigma2xhV6bOwIsb7yaufsN6qGAE0VX6KCjTzx1Ue-N88&seq=1
+
+## Week 11: Audience
+
+- Walsh, M. & Antoniak, M., (2021) “The Goodreads “Classics”: A Computational Study of
+Readers, Amazon, and Crowdsourced Amateur Criticism,” [*Journal of Cultural
+Analytics*][110] 6(2).
+
+[110]: https://culturalanalytics.org/article/id/1261/
+
+## Week 12: Techniques of the Body
+
+- Mauss, Marcel. 1973. “[Techniques of the Body][121].” In *Economy and Society*, translated by Ben
+Brewster, 70–88. London: Routledge & Kegan Paul.
+- Making of the Social Body, Poovey.
+- William St Clair The Reading Nation in the Romantic Period.
+
+[121]: https://drive.google.com/file/d/1Guua_MfLhvuFkmGlVhOL6mc_6IiKy3p2/view?usp=sharing
+
+### Week 13: Fan-fiction
+
 - *Selections from* Henry Jenkins, **Textual Poachers**.
 - *Selections from* Abigail De Kosnik, **Rogue Archives**.
 - Francesca Coppa, “Women, *Star Trek*, and the Early Development of Fannish Vidding.”
 
+##  Week 14: Misreading, Conspiracy, and Interpretive Excess
+
+- *Selections from* Michael Barkun, **A Culture of Conspiracy**.
+- *Selections from* Peter Knight, **Conspiracy Culture**.
+- *Selections from* Timothy Melley, **Empire of Conspiracy**.
+- *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
+
+## Final Project
+
+A 15–20 page research paper due during exam week. Projects may be **archival**,
+**ethnographic**, or **computational** studies of a literary world (e.g., a small press, fan
+community, prize network, or translation circuit). A 1–2 page proposal is due **Week 8**.
+
+---
+
+## CUTS
+
+- *Selections from* Janice Radway, **Reading the Romance**.
+- McGurl Systematic Excellence
+- Body and Soul.
+
+## Book History
+
+- *Selections from* Roger Chartier, **The Order of Books**.
+- Book-Burning and the Uses of Writing in Ancient Rome: Destructive Practice between Literature and Document
+JOSEPH A. HOWLEY
+
+- Paul DiMaggio, “Cultural Entrepreneurship in Nineteenth‑Century Boston.”
+- Wendy Griswold, “The Cultural Diamond.”
+
 ### Week 13: Co‑Authorship & Collective Intelligence
+
 - Roland Barthes, “The Death of the Author.”
 - *Selections from* Bruno Latour & Steve Woolgar, **Laboratory Life**.
 - *Selections from* Lisa Ede & Andrea Lunsford, **Singular Texts/Plural Authors**.
 - *Selections from* Nick Srnicek, **Platform Capitalism**.
 
-### Week 14: Conspiracy & Collective Narrative
-- *Selections from* Michael Barkun, **A Culture of Conspiracy**.
-- *Selections from* Peter Knight, **Conspiracy Culture**.
-- *Selections from* Timothy Melley, **Empire of Conspiracy**.
-- *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
 
 ### Week 12: Digital Labor & Algorithms
 - Ted Striphas, “Algorithmic Culture.”
@@ -220,32 +271,3 @@ Canon Formation*][92], 3–40. Chicago: University of Chicago Press.-
 - Wendy Griswold, “The Fabrication of Meaning.”
 
 
----
-
-## Final Project
-
-A 15–20 page research paper due during exam week. Projects may be **archival**,
-**ethnographic**, or **computational** studies of a literary world (e.g., a small press, fan
-community, prize network, or translation circuit). A 1–2 page proposal is due **Week 8**.
-
-## CUTS
-
-
-### Value
-
-- Barbara Herrnstein Smith, “Value/Evaluation.”
-- McGurl Systematic Excellence
-
-## Position
-
-- Body and Soul.
-
-## Book History
-
-- *Selections from* Roger Chartier, **The Order of Books**.
-- Book-Burning and the Uses of Writing in Ancient Rome: Destructive Practice between Literature and Document
-JOSEPH A. HOWLEY
-
-
-- Paul DiMaggio, “Cultural Entrepreneurship in Nineteenth‑Century Boston.”
-- Wendy Griswold, “The Cultural Diamond.”
