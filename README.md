@@ -204,6 +204,7 @@ Persons, and Publics*][102] (2007) by Karin Barber.
 - Walsh, M. & Antoniak, M., (2021) “The Goodreads “Classics”: A Computational Study of
 Readers, Amazon, and Crowdsourced Amateur Criticism,” [*Journal of Cultural
 Analytics*][110] 6(2).
+- Digital ethnography workshop.
 
 [110]: https://culturalanalytics.org/article/id/1261/
 
@@ -211,23 +212,22 @@ Analytics*][110] 6(2).
 
 - Mauss, Marcel. 1973. “[Techniques of the Body][121].” In *Economy and Society*, translated by Ben
 Brewster, 70–88. London: Routledge & Kegan Paul.
-- Making of the Social Body, Poovey.
-- William St Clair The Reading Nation in the Romantic Period.
+- Crary, Jonathan Crary. “Introduction” and “Modernity and the Problem of Attention.”
+In [*Suspensions of Perception: Attention, Spectacle, and Modern Culture*][122], 1–67. Cambridge, MA:
+MIT Press, 1999.
+- Hansen, Miriam Hansen. “The Mass Production of the Senses: Classical Cinema as Vernacular
+Modernism.” Modernism/Modernity 6, no. 2 (1999): 59–77.
 
 [121]: https://drive.google.com/file/d/1Guua_MfLhvuFkmGlVhOL6mc_6IiKy3p2/view?usp=sharing
+[122]: https://drive.google.com/file/d/1wtxxtWnNKTJrnm35EjFCzgz_UA8rWnS-/view?usp=drive_link
+[123]: https://muse-jhu-edu.ezproxy.cul.columbia.edu/pub/1/article/23266/summary?casa_token=5_Hs4VbzXtMAAAAA:WceqMii8yNPe0b5K1dpn0B3VX0mynuTPTU-5cbfpwY0-KjFgrJ769dSPzZJkwXdX7eFaGLsQZQ
 
 ### Week 13: Fan-fiction
 
-- *Selections from* Henry Jenkins, **Textual Poachers**.
+- Iser on Fictionality
 - *Selections from* Abigail De Kosnik, **Rogue Archives**.
 - Francesca Coppa, “Women, *Star Trek*, and the Early Development of Fannish Vidding.”
 
-##  Week 14: Misreading, Conspiracy, and Interpretive Excess
-
-- *Selections from* Michael Barkun, **A Culture of Conspiracy**.
-- *Selections from* Peter Knight, **Conspiracy Culture**.
-- *Selections from* Timothy Melley, **Empire of Conspiracy**.
-- *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
 
 ## Final Project
 
@@ -270,4 +270,10 @@ JOSEPH A. HOWLEY
 - *Selections from* Eva Illouz, **Cold Intimacies**.
 - Wendy Griswold, “The Fabrication of Meaning.”
 
+##  Week 14: Misreading, Conspiracy, and Interpretive Excess
 
+- *Selections from* Michael Barkun, **A Culture of Conspiracy**.
+- *Selections from* Peter Knight, **Conspiracy Culture**.
+- *Selections from* Timothy Melley, **Empire of Conspiracy**.
+- *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
+- William St Clair The Reading Nation in the Romantic Period.
