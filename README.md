@@ -224,10 +224,9 @@ Modernism.” Modernism/Modernity 6, no. 2 (1999): 59–77.
 
 ### Week 13: Fan-fiction
 
-- Iser on Fictionality
+- Iser from "The Fictive and the Imaginary"
 - *Selections from* Abigail De Kosnik, **Rogue Archives**.
 - Francesca Coppa, “Women, *Star Trek*, and the Early Development of Fannish Vidding.”
-
 
 ## Final Project
 
