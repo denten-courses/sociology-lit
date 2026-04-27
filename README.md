@@ -222,11 +222,22 @@ Modernism.” Modernism/Modernity 6, no. 2 (1999): 59–77.
 [122]: https://drive.google.com/file/d/1wtxxtWnNKTJrnm35EjFCzgz_UA8rWnS-/view?usp=drive_link
 [123]: https://muse-jhu-edu.ezproxy.cul.columbia.edu/pub/1/article/23266/summary?casa_token=5_Hs4VbzXtMAAAAA:WceqMii8yNPe0b5K1dpn0B3VX0mynuTPTU-5cbfpwY0-KjFgrJ769dSPzZJkwXdX7eFaGLsQZQ
 
-### Week 13: Fan-fiction
+### Week 13: Conspiracy and Folk Belief
 
-- Iser from "The Fictive and the Imaginary"
-- *Selections from* Abigail De Kosnik, **Rogue Archives**.
-- Francesca Coppa, “Women, *Star Trek*, and the Early Development of Fannish Vidding.”
+- Tangherlini, Timothy R., Shadi Shahsavari, Behnam Shahbazi, Ehsan Ebrahimzadeh, and
+Vwani Roychowdhury. “[An Automated Pipeline for the Discovery of Conspiracy and Conspiracy
+Theory Narrative Frameworks: Bridgegate, Pizzagate and Storytelling on the Web][1301].” PLOS ONE 15,
+no. 6 (June 16, 2020)
+- Degh, Linda. “[What Is A Belief Legend?][1302]” *Folklore* 107 (1996): 33–46.
+- Dentith, M R. X. “[Expertise and Conspiracy Theories][1303].” *Social Epistemology* 32, no. 3 (May
+4, 2018): 196–208.
+- Best, Joel, and Gerald T. Horiuchi. “[The Razor Blade in the Apple: The Social Construction
+of Urban Legends][1304].” *Social Problems* 32, no. 5 (1985): 488–99.
+
+[1301]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879
+[1302]: https://www.jstor.org/stable/1260912
+[1303]: https://www.tandfonline.com/doi/full/10.1080/02691728.2018.1440021
+[1304]: https://www.jstor.org/stable/800777
 
 ## Final Project
 
@@ -258,7 +269,6 @@ JOSEPH A. HOWLEY
 - *Selections from* Lisa Ede & Andrea Lunsford, **Singular Texts/Plural Authors**.
 - *Selections from* Nick Srnicek, **Platform Capitalism**.
 
-
 ### Week 12: Digital Labor & Algorithms
 - Ted Striphas, “Algorithmic Culture.”
 - *Selections from* Franco Moretti, **Graphs, Maps, Trees**.
@@ -276,3 +286,6 @@ JOSEPH A. HOWLEY
 - *Selections from* Timothy Melley, **Empire of Conspiracy**.
 - *Selections from* Arjun Appadurai, **Fear of Small Numbers**.
 - William St Clair The Reading Nation in the Romantic Period.
+
+- Iser from "The Fictive and the Imaginary"
+- *Selections from* Abigail De Kosnik, **Rogue Archives**.
